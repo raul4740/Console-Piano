@@ -6,5 +6,7 @@ Only structured programming was used, and the piano notes were achieved using th
 Enjoy!
 
 Instructions:
+
 -Don´t resize window
+
 -Select a song and hit the key shown on screen (numbers, and F keys)
