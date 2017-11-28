@@ -9,4 +9,6 @@ Instructions:
 
 -Don´t resize window
 
+-Hit Enter to begin
+
 -Select a song and hit the key shown on screen (numbers, and F keys)
